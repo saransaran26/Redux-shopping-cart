@@ -1,0 +1,11 @@
+.product{
+    text-align: center;
+}
+.goto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .addto{
+    background-color: ;
+} */
